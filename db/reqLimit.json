@@ -1,0 +1,12 @@
+{
+  "roleLimits": {
+    "reseller": null,
+    "premium": null,
+    "pt": null,
+    "tk": null,
+    "ceo": null,
+    "founder": null
+  },
+  "usage": {},
+  "reservations": {}
+}

@@ -1,0 +1,10 @@
+{
+  "__ZIODbV": 1,
+  "__sig": "56c946da07aaa3d5c83bee82b04e58039f9540d652be64bb8c414b828c975287",
+  "__data": {
+    "enabled": true,
+    "hours": 3,
+    "checkIntervalMinutes": 5,
+    "offlineSince": {}
+  }
+}
