@@ -1,0 +1,502 @@
+[
+  {
+    "at": "2026-11-08T03:43:04.128Z",
+    "level": "ERROR",
+    "text": "[1] Gagal sendPhoto ke targetId: 8392055234 -> ETELEGRAM: 400 Bad Request: can't parse entities: Can't find end of Italic entity at byte offset 377"
+  },
+  {
+    "at": "2026-11-08T03:43:03.720Z",
+    "level": "WARN",
+    "text": "[1] Panel berhasil dibuat, tapi notif channel gagal dikirim."
+  },
+  {
+    "at": "2026-11-08T03:43:03.717Z",
+    "level": "ERROR",
+    "text": "[notif-channel] Pastikan bot admin channel, izin Post Messages aktif, dan notifChannelImage valid."
+  },
+  {
+    "at": "2026-11-08T03:43:03.716Z",
+    "level": "ERROR",
+    "text": "[notif-channel] ◆ Kartu notif create panel gagal ke -1003122421527: ETELEGRAM: 400 Bad Request: chat not found"
+  },
+  {
+    "at": "2026-11-08T03:39:28.950Z",
+    "level": "ERROR",
+    "text": "[1] Gagal sendPhoto ke targetId: 8392055234 -> ETELEGRAM: 400 Bad Request: can't parse entities: Can't find end of Italic entity at byte offset 377"
+  },
+  {
+    "at": "2026-11-08T03:39:28.494Z",
+    "level": "WARN",
+    "text": "[1] Panel berhasil dibuat, tapi notif channel gagal dikirim."
+  },
+  {
+    "at": "2026-11-08T03:39:28.492Z",
+    "level": "ERROR",
+    "text": "[notif-channel] Pastikan bot admin channel, izin Post Messages aktif, dan notifChannelImage valid."
+  },
+  {
+    "at": "2026-11-08T03:39:28.491Z",
+    "level": "ERROR",
+    "text": "[notif-channel] ◆ Kartu notif create panel gagal ke -1003122421527: ETELEGRAM: 400 Bad Request: chat not found"
+  },
+  {
+    "at": "2026-11-08T01:23:02.051Z",
+    "level": "ERROR",
+    "text": "âœ• Gagal memperoleh single-instance lock: isPidAlive is not defined"
+  },
+  {
+    "at": "2026-11-08T01:20:30.869Z",
+    "level": "ERROR",
+    "text": "âœ• Gagal memperoleh single-instance lock: isPidAlive is not defined"
+  },
+  {
+    "at": "2026-11-08T01:18:52.421Z",
+    "level": "ERROR",
+    "text": "[start] native menu video gagal: Gateway Timeout"
+  },
+  {
+    "at": "2026-11-08T01:15:56.864Z",
+    "level": "ERROR",
+    "text": "Error: Telegram getMe timeout after 20s\n    at Timeout._onTimeout (/home/container/src/core/richmassage.js:72:98)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "at": "2026-11-08T01:15:56.863Z",
+    "level": "ERROR",
+    "text": "[BOOT] Gagal memulai bot: Telegram getMe timeout after 20s"
+  },
+  {
+    "at": "2026-11-08T01:13:58.185Z",
+    "level": "ERROR",
+    "text": "Error: Telegram getMe timeout after 20s\n    at Timeout._onTimeout (/home/container/src/core/richmassage.js:72:98)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "at": "2026-11-08T01:13:58.183Z",
+    "level": "ERROR",
+    "text": "[BOOT] Gagal memulai bot: Telegram getMe timeout after 20s"
+  },
+  {
+    "at": "2026-11-08T01:13:26.661Z",
+    "level": "ERROR",
+    "text": "Error: Telegram getMe timeout after 20s\n    at Timeout._onTimeout (/home/container/src/core/richmassage.js:72:98)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "at": "2026-11-08T01:13:26.659Z",
+    "level": "ERROR",
+    "text": "[BOOT] Gagal memulai bot: Telegram getMe timeout after 20s"
+  },
+  {
+    "at": "2026-11-08T01:12:30.189Z",
+    "level": "ERROR",
+    "text": "Error: Telegram getMe timeout after 20s\n    at Timeout._onTimeout (/home/container/src/core/richmassage.js:72:98)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)"
+  },
+  {
+    "at": "2026-11-08T01:12:30.187Z",
+    "level": "ERROR",
+    "text": "[BOOT] Gagal memulai bot: Telegram getMe timeout after 20s"
+  },
+  {
+    "at": "2026-11-08T01:11:58.692Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 502 Bad Gateway\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)"
+  },
+  {
+    "at": "2026-11-08T01:11:58.691Z",
+    "level": "ERROR",
+    "text": "[BOOT] Gagal memulai bot: ETELEGRAM: 502 Bad Gateway"
+  },
+  {
+    "at": "2026-11-07T01:18:36.085Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:18:36.082Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 504 Gateway Timeout\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:18:36.081Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 504 Gateway Timeout"
+  },
+  {
+    "at": "2026-11-07T01:18:36.080Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-07T01:16:35.281Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:16:35.278Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 504 Gateway Timeout\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:16:35.277Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 504 Gateway Timeout"
+  },
+  {
+    "at": "2026-11-07T01:16:35.276Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-07T01:14:34.809Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:14:34.808Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 504 Gateway Timeout\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:14:34.807Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 504 Gateway Timeout"
+  },
+  {
+    "at": "2026-11-07T01:14:34.806Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-07T01:12:34.341Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:12:34.340Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 502 Bad Gateway\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:12:34.339Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 502 Bad Gateway"
+  },
+  {
+    "at": "2026-11-07T01:12:34.338Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-07T01:12:33.872Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:12:33.871Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 502 Bad Gateway\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:12:33.870Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 502 Bad Gateway"
+  },
+  {
+    "at": "2026-11-07T01:12:33.869Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-07T01:12:33.403Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:12:33.402Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 502 Bad Gateway\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:12:33.402Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 502 Bad Gateway"
+  },
+  {
+    "at": "2026-11-07T01:12:33.401Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-07T01:12:32.934Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:12:32.932Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 502 Bad Gateway\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:12:32.931Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 502 Bad Gateway"
+  },
+  {
+    "at": "2026-11-07T01:12:32.930Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-07T01:12:29.510Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error polling perlu diperiksa."
+  },
+  {
+    "at": "2026-11-07T01:12:29.508Z",
+    "level": "ERROR",
+    "text": "Error: ETELEGRAM: 429 Too Many Requests: retry after 5\n    at /home/container/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/home/container/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/home/container/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/home/container/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/home/container/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/home/container/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/home/container/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/home/container/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/home/container/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues [as _onImmediate] (/home/container/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:483:21)\n    at process.callbackTrampoline (node:internal/async_hooks:130:17)"
+  },
+  {
+    "at": "2026-11-07T01:12:29.506Z",
+    "level": "ERROR",
+    "text": "âš‘ ETELEGRAM: 429 Too Many Requests: retry after 5"
+  },
+  {
+    "at": "2026-11-07T01:12:29.505Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-06T15:13:43.259Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Network transient error:retry polling otomatis."
+  },
+  {
+    "at": "2026-11-06T15:13:43.258Z",
+    "level": "ERROR",
+    "text": "RequestError: Error: read ECONNRESET\n    at new RequestError (/home/container/node_modules/request-promise-core/lib/errors.js:14:15)\n    at plumbing.callback (/home/container/node_modules/request-promise-core/lib/plumbing.js:87:29)\n    at Request.RP$callback [as _callback] (/home/container/node_modules/request-promise-core/lib/plumbing.js:46:31)\n    at self.callback (/home/container/node_modules/@cypress/request/request.js:183:22)\n    at Request.emit (node:events:524:28)\n    at Request.onRequestError (/home/container/node_modules/@cypress/request/request.js:869:8)\n    at ClientRequest.emit (node:events:524:28)\n    at emitErrorEvent (node:_http_client:101:11)\n    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n    at TLSSocket.emit (node:events:524:28)\n    at emitErrorNT (node:internal/streams/destroy:169:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)"
+  },
+  {
+    "at": "2026-11-06T15:13:43.257Z",
+    "level": "ERROR",
+    "text": "âš‘ EFATAL: Error: read ECONNRESET"
+  },
+  {
+    "at": "2026-11-06T15:13:43.255Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ POLLING ERROR"
+  },
+  {
+    "at": "2026-11-06T03:15:38.801Z",
+    "level": "WARN",
+    "text": "[1] Panel berhasil dibuat, tapi notif channel gagal dikirim."
+  },
+  {
+    "at": "2026-11-06T03:15:38.800Z",
+    "level": "ERROR",
+    "text": "[notif-channel] Pastikan bot admin channel, izin Post Messages aktif, dan notifChannelImage valid."
+  },
+  {
+    "at": "2026-11-06T03:15:38.800Z",
+    "level": "ERROR",
+    "text": "[notif-channel] ◆ Kartu notif create panel gagal ke -1003122421527: ETELEGRAM: 403 Forbidden: bot is not a member of the channel chat"
+  },
+  {
+    "at": "2026-11-05T15:33:37.079Z",
+    "level": "ERROR",
+    "text": "âœ• Gagal memperoleh single-instance lock: isPidAlive is not defined"
+  },
+  {
+    "at": "2026-11-05T14:32:16.965Z",
+    "level": "WARN",
+    "text": "[1] Panel berhasil dibuat, tapi notif channel gagal dikirim."
+  },
+  {
+    "at": "2026-11-05T14:32:16.964Z",
+    "level": "ERROR",
+    "text": "[notif-channel] Pastikan bot admin channel, izin Post Messages aktif, dan notifChannelImage valid."
+  },
+  {
+    "at": "2026-11-05T14:32:16.963Z",
+    "level": "ERROR",
+    "text": "[notif-channel] ◆ Kartu notif create panel gagal ke -1003122421527: ETELEGRAM: 403 Forbidden: bot is not a member of the channel chat"
+  },
+  {
+    "at": "2026-11-05T14:25:49.382Z",
+    "level": "WARN",
+    "text": "[1] Panel berhasil dibuat, tapi notif channel gagal dikirim."
+  },
+  {
+    "at": "2026-11-05T14:25:49.381Z",
+    "level": "ERROR",
+    "text": "[notif-channel] Pastikan bot admin channel, izin Post Messages aktif, dan notifChannelImage valid."
+  },
+  {
+    "at": "2026-11-05T14:25:49.381Z",
+    "level": "ERROR",
+    "text": "[notif-channel] ◆ Kartu notif create panel gagal ke -1003122421527: ETELEGRAM: 403 Forbidden: bot is not a member of the channel chat"
+  },
+  {
+    "at": "2026-11-05T14:15:59.863Z",
+    "level": "ERROR",
+    "text": "[status] rich /status gagal: fetch failed"
+  },
+  {
+    "at": "2026-11-05T14:15:39.445Z",
+    "level": "ERROR",
+    "text": "[rich-menu] kirim Rich Message gagal: fetch failed"
+  },
+  {
+    "at": "2026-11-05T14:15:14.025Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error aplikasi perlu diperiksa manual;source tidak diubah otomatis."
+  },
+  {
+    "at": "2026-11-05T14:15:14.024Z",
+    "level": "ERROR",
+    "text": "{\"code\":\"EFATAL\",\"message\":\"EFATAL: AggregateError\"}"
+  },
+  {
+    "at": "2026-11-05T14:15:14.024Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ UNHANDLED REJECTION"
+  },
+  {
+    "at": "2026-11-05T14:15:14.021Z",
+    "level": "ERROR",
+    "text": "[SELF-HEAL] Error aplikasi perlu diperiksa manual;source tidak diubah otomatis."
+  },
+  {
+    "at": "2026-11-05T14:15:14.014Z",
+    "level": "ERROR",
+    "text": "{\"code\":\"EFATAL\",\"message\":\"EFATAL: AggregateError\"}"
+  },
+  {
+    "at": "2026-11-05T14:15:14.014Z",
+    "level": "ERROR",
+    "text": "\nâ—‡ UNHANDLED REJECTION"
+  },
+  {
+    "at": "2026-11-05T14:03:18.031Z",
+    "level": "ERROR",
+    "text": "(node:119359) [node-telegram-bot-api] DeprecationWarning: In the future, content-type of files you send will default to \"application/octet-stream\". See https://github.com/yagop/node-telegram-bot-api/blob/master/doc/usage.md#sending-files for more information on how sending files has been improved and on how to disable this deprecation message altogether.\n(Use `node --trace-deprecation ...` to show where the warning was created)"
+  },
+  {
+    "at": "2026-11-05T13:21:57.157Z",
+    "level": "ERROR",
+    "text": "[menu] Rich Message gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T13:21:57.116Z",
+    "level": "ERROR",
+    "text": "[menu] Rich edit gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T13:21:29.064Z",
+    "level": "ERROR",
+    "text": "[menu] Rich Message gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T13:21:29.018Z",
+    "level": "ERROR",
+    "text": "[menu] Rich edit gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T13:21:08.119Z",
+    "level": "ERROR",
+    "text": "[mode] error di on('callback_query') wrapper: ETELEGRAM: 400 Bad Request: can't parse reply keyboard markup JSON object Error: ETELEGRAM: 400 Bad Request: can't parse reply keyboard markup JSON object\n    at /workspaces/MALIK-PANEL/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:574:21)"
+  },
+  {
+    "at": "2026-11-05T13:21:08.113Z",
+    "level": "ERROR",
+    "text": "[menu] Rich Message gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T13:21:08.039Z",
+    "level": "ERROR",
+    "text": "[menu] Rich edit gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T13:05:04.898Z",
+    "level": "ERROR",
+    "text": "[start] retry native menu video juga gagal: Bad Request: not enough rights to send the rich message to the chat"
+  },
+  {
+    "at": "2026-11-05T13:05:04.699Z",
+    "level": "ERROR",
+    "text": "[start] native menu video gagal: Bad Request: not enough rights to send the rich message to the chat"
+  },
+  {
+    "at": "2026-11-05T13:03:02.095Z",
+    "level": "WARN",
+    "text": "[anti-culik] grup asing terdeteksi: -1003122421527; memulai leaveChat segera."
+  },
+  {
+    "at": "2026-11-05T13:02:37.176Z",
+    "level": "WARN",
+    "text": "[anti-culik] grup asing terdeteksi: -1004488586492; memulai leaveChat segera."
+  },
+  {
+    "at": "2026-11-05T12:51:33.151Z",
+    "level": "WARN",
+    "text": "[anti-culik] grup asing terdeteksi: -1003122421527; memulai leaveChat segera."
+  },
+  {
+    "at": "2026-11-05T12:51:33.144Z",
+    "level": "WARN",
+    "text": "[anti-culik] grup asing terdeteksi: -1004488586492; memulai leaveChat segera."
+  },
+  {
+    "at": "2026-11-05T12:48:15.498Z",
+    "level": "WARN",
+    "text": "[anti-culik] grup asing terdeteksi: -1004488586492; memulai leaveChat segera."
+  },
+  {
+    "at": "2026-11-05T12:47:15.096Z",
+    "level": "WARN",
+    "text": "[anti-culik] grup asing terdeteksi: -1004488586492; memulai leaveChat segera."
+  },
+  {
+    "at": "2026-11-05T10:35:02.022Z",
+    "level": "ERROR",
+    "text": "[menu] Rich Message gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T10:35:01.957Z",
+    "level": "ERROR",
+    "text": "[menu] Rich edit gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T10:32:01.509Z",
+    "level": "ERROR",
+    "text": "[menu] Rich Message gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T10:32:01.477Z",
+    "level": "ERROR",
+    "text": "[menu] Rich edit gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T10:31:46.565Z",
+    "level": "ERROR",
+    "text": "[mode] error di on('callback_query') wrapper: ETELEGRAM: 400 Bad Request: can't parse reply keyboard markup JSON object Error: ETELEGRAM: 400 Bad Request: can't parse reply keyboard markup JSON object\n    at /workspaces/MALIK-PANEL/node_modules/node-telegram-bot-api/src/telegram.js:330:15\n    at tryCatcher (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/util.js:16:23)\n    at Promise._settlePromiseFromHandler (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:547:31)\n    at Promise._settlePromise (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:604:18)\n    at Promise._settlePromise0 (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:649:10)\n    at Promise._settlePromises (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/promise.js:729:18)\n    at _drainQueueStep (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:93:12)\n    at _drainQueue (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:86:9)\n    at Async._drainQueues (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:102:5)\n    at Async.drainQueues (/workspaces/MALIK-PANEL/node_modules/bluebird/js/release/async.js:15:14)\n    at process.processImmediate (node:internal/timers:574:21)"
+  },
+  {
+    "at": "2026-11-05T10:31:46.556Z",
+    "level": "ERROR",
+    "text": "[menu] Rich Message gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T10:31:46.526Z",
+    "level": "ERROR",
+    "text": "[menu] Rich edit gagal: Bad Request: can't parse InputRichBlock: Can't parse PageBlockTableCell: RichBlockTableCell must be an object"
+  },
+  {
+    "at": "2026-11-05T09:34:12.012Z",
+    "level": "ERROR",
+    "text": "[start] retry native menu video juga gagal: Bad Request: failed to get HTTP URL content"
+  },
+  {
+    "at": "2026-11-05T09:34:11.943Z",
+    "level": "ERROR",
+    "text": "[start] native menu video gagal: Bad Request: failed to get HTTP URL content"
+  }
+]
